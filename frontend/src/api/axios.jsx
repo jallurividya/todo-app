@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const instance = axios.create({
-  baseURL: "https://todos-app-54pk.onrender.com/",
+  baseURL: import.meta.env.VITE_API_URL,
 });
 
 // attach token automatically

@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const instance = axios.create({
-  baseURL: "http://localhost:8789",
+  baseURL: "https://todos-app-54pk.onrender.com/",
 });
 
 // attach token automatically

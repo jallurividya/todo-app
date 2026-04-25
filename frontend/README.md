@@ -56,7 +56,7 @@ npm install
 #### Create `.env` file inside backend:
 
 ```env
-PORT=5000
+PORT=9999
 JWT_SECRET=your_secret_key
 SUPABASE_URL=your_supabase_url
 SUPABASE_ANON_KEY=your_supabase_key
@@ -92,6 +92,8 @@ Link: https://todos-app-54pk.onrender.com/
 ### Frontend
 
 Deployed on Vercel
+
+Link: https://todo-app-zeta-pied-76.vercel.app/
 
 ---
 
